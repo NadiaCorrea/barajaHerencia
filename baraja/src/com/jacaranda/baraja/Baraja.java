@@ -14,7 +14,7 @@ public abstract class Baraja implements Repartible {
 		barajar(numCartas);
 	}
 
-	public void barajar(int numCartas2) {
+	public void barajar(int numCartas) {
 
 		int i = 0;
 		while (i < numCartas) {
